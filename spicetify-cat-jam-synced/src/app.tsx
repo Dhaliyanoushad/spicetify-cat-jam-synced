@@ -130,7 +130,7 @@ async function createWebMVideo() {
         let videoURL = String(settings.getFieldValue("catjam-webm-link"));
         
         if (!videoURL) {
-            videoURL = "https://github.com/BlafKing/spicetify-cat-jam-synced/raw/main/src/resources/catjam.webm"
+            videoURL = "https://github.com/Dhaliyanoushad/spicetify-cat-jam-synced/bloba321fe71e04cbee7ea57dbcea08d68b429a/spicetify-cat-jam-synced/src/resources/catjam.webm"
         }
 
         // Create a new video element to be inserted
