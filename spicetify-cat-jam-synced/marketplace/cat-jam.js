@@ -461,7 +461,7 @@
       let t = String(f.getFieldValue("catjam-webm-link"));
       t =
         t ||
-        "https://github.com/BlafKing/spicetify-cat-jam-synced/raw/main/src/resources/catjam.webm";
+        "https://github.com/Dhaliyanoushad/spicetify-cat-jam-synced/bloba321fe71e04cbee7ea57dbcea08d68b429a/spicetify-cat-jam-synced/src/resources/catjam.webm";
       var s = document.createElement("video");
       s.setAttribute("loop", "true"),
         s.setAttribute("autoplay", "true"),
